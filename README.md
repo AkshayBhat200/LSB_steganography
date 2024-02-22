@@ -7,5 +7,5 @@ After executing this command a new image file named stego_img.bmp will be create
 use the below command to decode the secret message in stego_img.bmp file and store it in my_decoded_file.txt
 ./a.out -d stego_img.bmp my_decoded_file.txt
 If your on windows and you get errors you can use the commands below instead
-./a -e beautiful.bmp secret.txt
+./a -e beautiful.bmp secret.txt 
 ./a -d stego_img.bmp my_decoded_file.txt
